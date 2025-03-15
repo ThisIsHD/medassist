@@ -1,6 +1,4 @@
 "use client"; // Add this directive to make it a client component
-
-import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";
 
